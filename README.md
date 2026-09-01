@@ -1,0 +1,64 @@
+# 👋 Hi, I'm Eyoub
+
+[![Eyoub's GitSkins
+profile](https://www.gitskins.com/api/section/hero?username=eyoub617&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141724180%3Fv%3D4)](https://github.com/eyoub617)
+
+🎓 **BUT Sciences des Données student**\
+💻 **Development · Data · Statistics**\
+🚀 Learning, building and experimenting
+
+## 📚 Currently learning
+
+I'm building my foundations in **Data Science** through my BUT and
+personal projects.
+
+-   🐍 Python
+-   🗃️ SQL
+-   📊 Statistics & data analysis
+-   📈 Data visualization
+-   💻 Software development & Git
+
+> Building useful things while learning in public.
+
+## 🛠️ Tools I'm practicing
+
+**Languages & data**\
+`Python` · `SQL` · `JavaScript` · `TypeScript`
+
+**Development**\
+`Git` · `GitHub` · `React` · `React Native`
+
+This list will evolve as my projects and skills grow.
+
+## 🚀 Projects
+
+### 📍 My Local Event
+
+A project focused on discovering and connecting people with local
+events.
+
+**Focus:** product development · mobile development · data · UX
+
+### 💻 [work](https://github.com/eyoub617/work)
+
+A workspace for experiments, coursework and development projects.
+
+[Explore my repositories
+→](https://github.com/eyoub617?tab=repositories)
+
+## 🎯 Current focus
+
+-   📚 Building strong foundations in data and statistics
+-   💻 Turning coursework into practical projects
+-   🧪 Experimenting with development and data workflows
+-   📈 Growing a portfolio step by step
+
+## 🤝 Let's connect
+
+-   💻 [GitHub](https://github.com/eyoub617)
+-   🌐 Portfolio: *coming soon*
+
+------------------------------------------------------------------------
+
+`<sub>`{=html}Student profile · Learning velocity on
+display`</sub>`{=html}
