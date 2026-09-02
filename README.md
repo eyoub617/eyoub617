@@ -5,6 +5,7 @@ profile](https://www.gitskins.com/api/section/hero?username=eyoub617&theme=auror
 
 🎓 **BUT Sciences des Données student**\
 💻 **Development · Data · Statistics**\
+🌐 **[Portfolio](https://portfolio-eyoub-daouadi--eyoubdaouadi.replit.app)**\
 🚀 Learning, building and experimenting
 
 ## 📚 Currently learning
@@ -56,8 +57,7 @@ A workspace for experiments, coursework and development projects.
 ## 🤝 Let's connect
 
 -   💻 [GitHub](https://github.com/eyoub617)
--   🌐 Portfolio: *coming soon*
-
+-   🌐 [Portfolio](https://portfolio-eyoub-daouadi--eyoubdaouadi.replit.app)
 ------------------------------------------------------------------------
 
 `<sub>`{=html}Student profile · Learning velocity on
