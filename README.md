@@ -3,9 +3,9 @@
 [![Eyoub's GitSkins
 profile](https://www.gitskins.com/api/section/hero?username=eyoub617&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141724180%3Fv%3D4)](https://github.com/eyoub617)
 
+🌐 **[Portfolio](https://portfolio-eyoub-daouadi--eyoubdaouadi.replit.app)**\
 🎓 **BUT Sciences des Données student**\
 💻 **Development · Data · Statistics**\
-🌐 **[Portfolio](https://portfolio-eyoub-daouadi--eyoubdaouadi.replit.app)**\
 🚀 Learning, building and experimenting
 
 ## 📚 Currently learning
